@@ -1,0 +1,25 @@
+certifi==2021.5.30
+click==8.0.4
+colorama==0.4.5
+dataclasses==0.8
+dlib @ https://pypi.tuna.tsinghua.edu.cn/packages/0e/ce/f8a3cff33ac03a8219768f0694c5d703c8e037e6aba2e865f9bae22ed63c/dlib-19.8.1-cp36-cp36m-win_amd64.whl#sha256=794994fa2c54e7776659fddb148363a5556468a6d5d46be8dad311722d54bfcf
+easydict==1.10
+face-recognition==1.3.0
+face-recognition-models==0.3.0
+importlib-metadata==4.8.3
+importlib-resources==5.4.0
+mkl-fft==1.3.0
+mkl-random==1.1.0
+mkl-service==2.3.0
+numpy==1.19.5
+opencv-python==4.6.0.66
+Pillow==8.4.0
+protobuf==3.19.6
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+tensorboardX==2.5.1
+torch==1.10.0
+torchvision==0.11.1
+tqdm==4.64.1
+typing_extensions==4.1.1
+wincertstore==0.2
+zipp==3.6.0
